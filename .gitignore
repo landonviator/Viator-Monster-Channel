@@ -1,0 +1,5 @@
+/build
+/cmake-build-debug
+/buildMac
+.DS_Store
+*.lib
